@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=GA35kG4bE6I&list=PLHhI_VPmPe6fisHY0MXqzOq3Y1xc5q
 
 https://www.udemy.com/course/python-for-researchers/
 
-https://smartrs.uk/series/python-researchers
+https://smartrs.hashnode.dev/series/python-researchers
